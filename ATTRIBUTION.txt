@@ -1,0 +1,28 @@
+人体解剖图谱 / Anatomy atlas
+Site base path: /anatomy-atlas/
+Intended URL: https://tongshan-parflu.github.io/anatomy-atlas/
+
+Male model
+  BodyParts3D Release 4.0 (polygon reduction 99%)
+  © 2008 Database Center for Life Science (DBCLS) / 生命科学综合数据库中心
+  License: Creative Commons Attribution-ShareAlike 2.1 Japan (CC BY-SA 2.1 JP)
+  https://lifesciencedb.jp/bp3d/
+  https://creativecommons.org/licenses/by-sa/2.1/jp/deed.en
+  English names follow the Foundational Model of Anatomy (FMA),
+  Structural Informatics Group, University of Washington.
+  Web meshes are further simplified from that release for interactive viewing.
+  Derivative meshes in this site remain CC BY-SA 2.1 JP.
+
+Female model
+  Human Reference Atlas reference organs (HuBMAP / MC-IU)
+  License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  https://humanatlas.io/
+  https://creativecommons.org/licenses/by/4.0/
+  Most organ surfaces are derived from the Visible Human Female,
+  U.S. National Library of Medicine.
+  Brain parcels include the Allen Human Reference Atlas, placed in the same frame.
+  The full-term placenta specimen is not included in this build.
+  The male and female models are different donors and are not overlaid.
+
+This folder is a static export. GitHub Pages must serve it as the site root
+of the project site so that /anatomy-atlas/ maps to index.html.
